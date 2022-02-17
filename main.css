@@ -1,0 +1,31 @@
+
+
+p {
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+body {
+    font-family: 'Festive', cursive;
+    color: darkgreen;
+ 
+}
+
+.firstbox {
+    background-color: lightpink;
+    padding: 20px 40px 20px 40px;
+    border: 5px solid black;
+    margin: 20px;
+}
+
+.secondbox {
+    background-color: lightblue;
+    padding: 40px 40px 40px 40px;
+    border: 5px dotted black;
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+
+}

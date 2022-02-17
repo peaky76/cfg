@@ -1,0 +1,28 @@
+nav {
+    background-color: lightpink;
+}
+
+ul {
+    list-style: none;
+    
+
+}
+
+li {
+    display: inline;
+}
+
+header {
+    
+    height: 400px;
+    background-color: purple;
+    
+}
+
+h1 {
+    color: white;
+    line-height: 400px;
+    text-align: center;
+}
+
+table tbody tr:nth-child()
